@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{fb2e8d72-b46c-4763-82f9-47a5d5ee9450}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\MainMenu">
+      <UniqueIdentifier>{7e6e8a41-6192-419b-b946-761e4557a6ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Game">
+      <UniqueIdentifier>{eddeda02-6bf3-4d1a-b213-d2bfbb07285c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hitbox">
+      <UniqueIdentifier>{acca07d3-a3b1-49fb-9caa-5520d75d3645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Characters">
+      <UniqueIdentifier>{e8ed8cd7-16da-42f1-a74a-feffd892cba6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity">
+      <UniqueIdentifier>{a5913252-1bdb-45db-9156-e10f8539fdd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{dfb731c4-f3c8-469a-a281-8ca567f344ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{a722d1d4-8cbe-46b2-8d14-4d53a3e62a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{fd6c3a71-44a7-4fbc-8d94-429ae626291d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="State.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="HowState.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreState.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStates.cpp">
+      <Filter>States\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>States\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="NameState.cpp">
+      <Filter>States\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="HitboxEnemy.cpp">
+      <Filter>Hitbox</Filter>
+    </ClCompile>
+    <ClCompile Include="HitboxComponent.cpp">
+      <Filter>Hitbox</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestOfNinja.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="LoopBackground.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWin.cpp">
+      <Filter>States\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="FadeStates.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowGameState.cpp">
+      <Filter>Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowingState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="State.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="HowState.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreState.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStates.h">
+      <Filter>States\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>States\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="NameState.h">
+      <Filter>States\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="HitboxEnemy.h">
+      <Filter>Hitbox</Filter>
+    </ClInclude>
+    <ClInclude Include="HitboxComponent.h">
+      <Filter>Hitbox</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMain.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWin.h">
+      <Filter>States\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="LoopBackground.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="FadeStates.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowGameState.h">
+      <Filter>Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrowingState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
