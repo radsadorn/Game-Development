@@ -1,4 +1,4 @@
-# Quest of Ninja
+# Quest of Ninja | QON
 
 <br><br> ![QON](https://github.com/radsadorn/Quest_of_Ninja/blob/master/QuestOfNinja/sprite/LOGO.png) <br><br>
 
