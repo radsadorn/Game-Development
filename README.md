@@ -1,6 +1,6 @@
 # Quest of Ninja
 
-`Desktop Game Development | C++` พัฒนาขึ้นโดยใช้ `Library- SFML X Visual Studio 2019` 👾
+` Desktop Game Development | C++ ` พัฒนาขึ้นโดยใช้ ` Library- SFML X Visual Studio 2019 ` 👾
 
 ## Developer
 
@@ -16,4 +16,4 @@
 
 ## Game Tailer
 
-
+![alt text](https://github.com/[radsadorn]/[Quest_of_ninja]/blob/[master]/QON.jpg?raw=true)
