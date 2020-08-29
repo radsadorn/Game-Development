@@ -16,6 +16,19 @@
 
 * Visual Studio 2017
 
+## Feature
+
+* เกมผู้เล่นคนเดียว (Single Player)
+  - ตัวละครหลัก
+    - จะมีสกิลทั้งหมด 3 สกิล เวลาใช้แต่ละสกิลจะมีเวลา ` cooldown ` ของสกิลนั้นๆ แตกต่างกันออกไปตามความแรงของสกิล
+    - จะสามารใช้การปาดาวกระจายได้ ในการปาแต่ละครั้ง จะสูญเสียดาวกระจายไป สามารถเก็บดาวกระจายเพิ่มได้จากการจัดการ monster
+  - monsters
+    - จะมีพลังการโจมตีที่รุนแรงแตกต่างกันออกไปตาม stage ที่สูงขึ้น ในแต่ละ stage จะมี mosters 3 ประเภท คือ golem, goblin and boss
+* ผ่าน Stage โดยการกำจัดศัตรูทุกตัวใน Stage
+* จบเกมโดยการสังหารบอสใน Stage สุดท้าย (Stage ที่ 3)
+
 ## Game Tailer
 
 [![alt text](https://github.com/radsadorn/Quest_of_Ninja/blob/master/QON.jpg?raw=true)](https://www.youtube.com/watch?v=zPIRKE5LVkM&t=12s)
+
+<br> -------------------------------------------------------------
