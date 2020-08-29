@@ -1,6 +1,6 @@
 # Quest of Ninja
 
-![QON](https://github.com/radsadorn/Quest_of_Ninja/blob/master/QuestOfNinja/sprite/LOGO.png)
+<br> ![QON](https://github.com/radsadorn/Quest_of_Ninja/blob/master/QuestOfNinja/sprite/LOGO.png) <br>
 
 `  Desktop Game Development | C++  ` พัฒนาขึ้นโดยใช้ `  Library- SFML X Visual Studio 2019  ` 👾
 
