@@ -16,4 +16,4 @@
 
 ## Game Tailer
 
-[![alt text][(https://github.com/radsadorn/Quest_of_Ninja/blob/master/QON.jpg?raw=true)]](https://www.youtube.com/watch?v=zPIRKE5LVkM&t=12s)
+[![alt text](https://github.com/radsadorn/Quest_of_Ninja/blob/master/QON.jpg?raw=true)](https://www.youtube.com/watch?v=zPIRKE5LVkM&t=12s)
