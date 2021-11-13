@@ -4,7 +4,8 @@
 
 `  Desktop Game Development | C++  `   พัฒนาขึ้นโดยใช้   `  Library- SFML X Visual Studio 2019  ` 👾 <br><br>
 
-=> Release [Quest of Ninja](https://drive.google.com/drive/folders/1K0R7L--0Xh2oHbrKl2XBzFbkGbdBktGy?usp=sharing)
+## 💻 Release 
+* [Click here](https://drive.google.com/drive/folders/1K0R7L--0Xh2oHbrKl2XBzFbkGbdBktGy?usp=sharing) for Download release version.
 
 ## 👾 Developer 
 
